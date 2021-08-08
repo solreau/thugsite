@@ -5,7 +5,7 @@ function Navigation(props) {
   return (
     <div className="navigation" style={{backgroundColor: "#9c74fc"}} >
       <nav class="navbar navbar-expand-lg navbar-light">
-      <a class="navbar-brand" href="#"><img src={"./favicon-32x32.png"} /></a>
+      <a class="navbar-brand" href="#"><img src={"./favicon-96x96.png"} /></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -19,6 +19,9 @@ function Navigation(props) {
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/roadmap"><b>roadmap</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/faq"><b>faq</b></a>
           </li>
     </ul>
   </div>
