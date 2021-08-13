@@ -16,7 +16,7 @@ function Home() {
           <div class="col-lg-6">
             <h2 class="Header">thugbirdz</h2>
             <ul class="list-unstyled text-center" >
-              <li class = "item">launching on the 15th of August</li>
+              <li class = "item">launching on the 22nd of August</li>
             </ul>
           </div>
         </div>
